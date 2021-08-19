@@ -1,0 +1,10 @@
+
+<?php 
+	echo "<script>"
+	function Popup(form)
+	{
+		windows.open('', 'cetak_rambu')
+	}
+ ;
+
+?>
